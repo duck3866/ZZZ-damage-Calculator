@@ -1,0 +1,16 @@
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\scouter.csproj.AssemblyReference.cache
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\scouter.Form1.resources
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\scouter.Properties.Resources.resources
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\scouter.csproj.GenerateResource.cache
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\scouter.csproj.CoreCompileInputs.cache
+C:\Users\DGSW\source\repos\scouter\scouter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DGSW\source\repos\scouter\scouter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\scouter.csproj.Up2Date
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\scouter.Form1.lg-UG.resources
+C:\Users\DGSW\source\repos\scouter\scouter\bin\Debug\zzz damage.exe.config
+C:\Users\DGSW\source\repos\scouter\scouter\bin\Debug\zzz damage.exe
+C:\Users\DGSW\source\repos\scouter\scouter\bin\Debug\zzz damage.pdb
+C:\Users\DGSW\source\repos\scouter\scouter\bin\Debug\lg-UG\zzz damage.resources.dll
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\lg-UG\zzz damage.resources.dll
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\zzz damage.exe
+C:\Users\DGSW\source\repos\scouter\scouter\obj\Debug\zzz damage.pdb
