@@ -11,7 +11,7 @@
 ---
 
 ## 플레이 방법 (How to Play)
-
+![Image](https://github.com/user-attachments/assets/ef7ba254-613b-43a3-a209-caeddfc69592)
 1. **게임 설치 및 실행**:
    - PC 또는 Android에 게임을 설치하고 실행합니다.
 
