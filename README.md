@@ -1,5 +1,5 @@
 # ZZZ-damage-Calculator
-![Image](https://github.com/user-attachments/assets/8a6707b9-4616-4670-98a6-41a4640af99f)
+![Image](https://github.com/user-attachments/assets/69320378-a0ed-48fa-b496-d8cc2a1dd43d)
 **ZZZ-damage-Calculator**은 Winform과 unity 제작된 .Net 기반 계산기입니다. PC와 Android 환경에서 플레이 가능하며, 젠레스 존 제로의 본인 스텟을 입력하면 데미지 공식에 따라 데미지를 계산해주는 계산기입니다.
 
 ---
@@ -11,12 +11,13 @@
 ---
 
 ## 플레이 방법 (How to Play)
-![Image](https://github.com/user-attachments/assets/ef7ba254-613b-43a3-a209-caeddfc69592)
+
 1. **게임 설치 및 실행**:
    - PC 또는 Android에 게임을 설치하고 실행합니다.
-
 2. **메뉴 화면**:
-   스텟을 입력하고 데미지 계산 버튼을 누릅니다.
+
+![Image](https://github.com/user-attachments/assets/ef7ba254-613b-43a3-a209-caeddfc69592)
+   - 스텟을 입력하고 데미지 계산 버튼을 누릅니다.
 
 ---
 
